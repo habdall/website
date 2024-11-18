@@ -1,0 +1,18 @@
+body {
+    background-color:rgb(246, 244, 244)
+}
+#header {
+    background-image: url("/images/pastel.png");
+    height: 202px;
+    text-align: center;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-style: solid;
+    border-color: white;
+    padding-right: 8%
+}
+h1 {font-size: 400%;
+    font-family:brush script mt,cursive
+}
